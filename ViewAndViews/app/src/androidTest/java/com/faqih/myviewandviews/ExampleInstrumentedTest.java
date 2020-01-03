@@ -1,4 +1,4 @@
-package com.faqih.myvieandviews;
+package com.faqih.myviewandviews;
 
 import android.content.Context;
 

@@ -1,4 +1,4 @@
-package com.faqih.myvieandviews;
+package com.faqih.myviewandviews;
 
 import androidx.appcompat.app.AppCompatActivity;
 
