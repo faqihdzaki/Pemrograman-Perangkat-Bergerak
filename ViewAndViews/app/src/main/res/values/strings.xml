@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">myVieAndViews</string>
+    <string name="content_text"> Perjuangan B.J Habibie dari masa kecil hingga menjadi presiden
+        Indonesia letiga dilaluinya dengan keras dan penuh dengan perjuangan yang
+        panjang,banyak peran dan karya B>J habibie bagi bangsa indonesia khususnya dalam
+        bidang kedirgantaraan. berikut profil dan biografi BJ Habibie dari masa kecil hingga ia sukses hingga sekarang
+        </string>
+    <string name="nama">prof.Dr.Ing. H. Bachhaudin jusuf Habibie</string>
+    <string name="TTL">Parepare, 25 juni 1936</string>
+    <string name="jabatan">presiden ke-3 Indonesia\n
+            wakil presiden Indonesia ke-7\n
+            Mentri Riset dan teknologi Indonesia ke-4
+    </string>
+    <string name="penemuan">crack prograsion theory\n
+            pesawat N-250\n
+            pesawat R88</string>
+    <string name="donasi">Donasi pesawat R88</string>
+    <string name="ajakan">sudah saatnya Indonesia punya pesawat sendiri,salurkan donasi anda</string>
+</resources>
